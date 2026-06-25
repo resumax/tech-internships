@@ -1,36 +1,51 @@
 <div align="center">
-  <a href="https://resumax.ai/?utm_source=github&utm_medium=repo&utm_campaign=tech-internships&utm_content=banner"><img src="./assets/banner.svg" alt="ResuMax Tech Internships (2026 & 2027)" width="100%"></a>
+  <a href="https://resumax.ai/?utm_source=github&utm_medium=repo&utm_campaign=tech-internships&utm_content=banner"><img src="./assets/banner.png" alt="ResuMax Tech Internships (2026 & 2027)" width="100%"></a>
 </div>
 
 # Tech Internships (2026 & 2027)
 
-Open software engineering, data, AI, ML, security, and hardware internships for Summer 2026 and 2027, updated daily. Tailor your resume to any of them in one click.
+Software, data, AI and ML, security, and hardware **internships** for Summer **2026 and 2027**, updated daily. Each one links straight into ResuMax, where the AI copilot tailors your resume to it and preps you to ace the interview.
 
 [![Stars](https://img.shields.io/github/stars/resumax/tech-internships?style=flat&color=E879A3&labelColor=0A0A0E)](https://github.com/resumax/tech-internships) [![Powered by ResuMax](https://img.shields.io/badge/powered%20by-resumax.ai-E879A3?labelColor=0A0A0E)](https://resumax.ai/?utm_source=github&utm_medium=repo&utm_campaign=tech-internships) ![Updated](https://img.shields.io/badge/updated-automatically-F5F1EB?labelColor=0A0A0E)
 
-> **The loop:** [learn the roadmap](https://github.com/resumax/software-engineer-roadmaps) &rarr; [build a project to prove the skill](https://github.com/resumax/coding-project-ideas) &rarr; **land an internship** &rarr; tailor your resume with the [Atlas coach](https://resumax.ai/?utm_source=github&utm_medium=repo&utm_campaign=tech-internships&utm_content=intro). Full-time roles are in the [jobs repo](https://github.com/resumax/new-grad-tech-jobs).
+<div align="center">
+
+### 😫 Hate rewriting your resume for every single application?
+
+<a href="https://resumax.ai/?utm_source=github&utm_medium=repo&utm_campaign=tech-internships&utm_content=cta"><img src="./assets/cta.png" width="100%" alt="Tailor your resume and ace the interview with the ResuMax copilot"></a>
+
+**[Tailor your resume to any role in one click &rarr;](https://resumax.ai/?utm_source=github&utm_medium=repo&utm_campaign=tech-internships&utm_content=cta-link)**
+
+ResuMax's AI copilot rewrites your resume to match each job description, then walks you through every interview, the recruiter screen, coding round, and behavioral, so you land the offer, not just the application.
+
+</div>
+
+🙏 **Spot a role we're missing, or a stale listing?** [Open an issue.](../../issues/new) 🙏
+
+## Browse 15 internships by category
+
+💻 &nbsp; **[Software Engineering](#software-engineering)** &nbsp; `6`  
+🤖 &nbsp; **[Data, AI & ML](#data-ai-and-ml)** &nbsp; `6`  
+☁️ &nbsp; **[DevOps, Infra & Cloud](#devops-infra-and-cloud)** &nbsp; `1`  
+🔧 &nbsp; **[Hardware & Embedded](#hardware-and-embedded)** &nbsp; `2`  
 
 ## Legend
 
 🔥 FAANG+ &nbsp;·&nbsp; 🌐 Remote &nbsp;·&nbsp; 🆕 Posted this week
 
-## Browse
-
-[Software Engineering](#software-engineering) (6) &nbsp;·&nbsp; [Data, AI & ML](#data-ai-and-ml) (6) &nbsp;·&nbsp; [DevOps, Infra & Cloud](#devops-infra-and-cloud) (1) &nbsp;·&nbsp; [Hardware & Embedded](#hardware-and-embedded) (2)
-
-## Software Engineering
+## 💻 Software Engineering
 <a name="software-engineering"></a>
 
 | Company | Role | Location | Apply | Tailor | Age |
 |---|---|---|---|:--:|--:|
 | **Verkada** 🆕 | Backend Software Engineering Intern - Fall 2026 | San Mateo, CA United States | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5099422007) | <a href="https://resumax.ai/tailor?job=f1b0188b-46f5-4550-99c0-6ced622c2a20&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=f1b0188b-46f5-4550-99c0-6ced622c2a20"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | today |
 | **Verkada** 🆕 | Frontend Software Engineering Intern - Fall 2026 | San Mateo, CA United States | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5099529007) | <a href="https://resumax.ai/tailor?job=ef8ea5ed-ca57-4261-82b8-d0d2f34f9cc9&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=ef8ea5ed-ca57-4261-82b8-d0d2f34f9cc9"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | today |
-| **Palantir** 🆕 | Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial | Chicago, IL | [Apply](https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3/apply) | <a href="https://resumax.ai/tailor?job=9500d9c9-2a67-47b9-ba20-cc4168b8c50a&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=9500d9c9-2a67-47b9-ba20-cc4168b8c50a"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | today |
+| **Palantir** 🆕 | Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial | Chicago, IL | [Apply](https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3/apply) | <a href="https://resumax.ai/tailor?job=9500d9c9-2a67-47b9-ba20-cc4168b8c50a&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=9500d9c9-2a67-47b9-ba20-cc4168b8c50a"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | 1d |
 | **Asteraearlycareer2026** 🆕 | Field Application Engineering Intern | Taipei, Taiwan | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4670791005) | <a href="https://resumax.ai/tailor?job=2674d8e3-77dd-44ed-8533-7f2aa81ea173&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=2674d8e3-77dd-44ed-8533-7f2aa81ea173"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | 1d |
-| **Heron Power** 🆕 | Intern, Electronics Design Engineer, Spring 2027 | Scotts Valley | [Apply](https://jobs.ashbyhq.com/heron-power/796052b0-3811-4282-b1f9-7e6f83c3e87b/application) | <a href="https://resumax.ai/tailor?job=6d2db554-c2bd-40f7-a0ea-89259da9c537&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=6d2db554-c2bd-40f7-a0ea-89259da9c537"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | 1d |
-| **Heron Power** 🆕 | Intern, Electronics Design Engineer, Autumn 2026 | Scotts Valley | [Apply](https://jobs.ashbyhq.com/heron-power/28af5d2d-bd93-4681-9422-05d17c3437eb/application) | <a href="https://resumax.ai/tailor?job=5c56da1a-3132-47b1-b78e-385dee409f3d&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=5c56da1a-3132-47b1-b78e-385dee409f3d"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | 1d |
+| **Heron Power** 🆕 | Intern, Electronics Design Engineer, Spring 2027 | Scotts Valley | [Apply](https://jobs.ashbyhq.com/heron-power/796052b0-3811-4282-b1f9-7e6f83c3e87b/application) | <a href="https://resumax.ai/tailor?job=6d2db554-c2bd-40f7-a0ea-89259da9c537&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=6d2db554-c2bd-40f7-a0ea-89259da9c537"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | 2d |
+| **Heron Power** 🆕 | Intern, Electronics Design Engineer, Autumn 2026 | Scotts Valley | [Apply](https://jobs.ashbyhq.com/heron-power/28af5d2d-bd93-4681-9422-05d17c3437eb/application) | <a href="https://resumax.ai/tailor?job=5c56da1a-3132-47b1-b78e-385dee409f3d&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=5c56da1a-3132-47b1-b78e-385dee409f3d"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | 2d |
 
-## Data, AI & ML
+## 🤖 Data, AI & ML
 <a name="data-ai-and-ml"></a>
 
 | Company | Role | Location | Apply | Tailor | Age |
@@ -42,14 +57,14 @@ Open software engineering, data, AI, ML, security, and hardware internships for 
 | **Instacart** 🌐 🆕 | Machine Learning Engineer, PhD Intern (Fall) | United States - Remote | [Apply](https://instacart.careers/job/?gh_jid=5917202) | <a href="https://resumax.ai/tailor?job=e08cefd4-7cb3-47e6-b7e6-07935eae946a&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=e08cefd4-7cb3-47e6-b7e6-07935eae946a"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | today |
 | **Instacart** 🌐 🆕 | Machine Learning PhD Intern, Economics (Fall) | United States - Remote | [Apply](https://instacart.careers/job/?gh_jid=7532267) | <a href="https://resumax.ai/tailor?job=8cc0dc80-746f-4565-b59e-6a35587d9f1c&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=8cc0dc80-746f-4565-b59e-6a35587d9f1c"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | today |
 
-## DevOps, Infra & Cloud
+## ☁️ DevOps, Infra & Cloud
 <a name="devops-infra-and-cloud"></a>
 
 | Company | Role | Location | Apply | Tailor | Age |
 |---|---|---|---|:--:|--:|
 | **Continental** 🆕 | Internship – RFID and OT Infrastructure (partially mandatory) - REF97268L | Hannover, NDS, de | [Apply](https://jobs.smartrecruiters.com/continental/744000134236652) | <a href="https://resumax.ai/tailor?job=db28f42c-6be5-4985-86f7-3d89f9f0de23&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=db28f42c-6be5-4985-86f7-3d89f9f0de23"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | today |
 
-## Hardware & Embedded
+## 🔧 Hardware & Embedded
 <a name="hardware-and-embedded"></a>
 
 | Company | Role | Location | Apply | Tailor | Age |
@@ -60,10 +75,14 @@ Open software engineering, data, AI, ML, security, and hardware internships for 
 
 ---
 
-### Part of the open-source ResuMax stack
+<div align="center">
 
-[**Roadmaps**](https://github.com/resumax/software-engineer-roadmaps) to learn it &nbsp;·&nbsp; [**Projects**](https://github.com/resumax/coding-project-ideas) to prove it &nbsp;·&nbsp; [**Jobs**](https://github.com/resumax/new-grad-tech-jobs) to land it &nbsp;·&nbsp; **Internships** to break in (you are here)
+### Don't just apply. Get the offer.
 
-Built by **[ResuMax](https://resumax.ai/?utm_source=github&utm_medium=repo&utm_campaign=tech-internships)**, the AI career platform for software engineers. Learn the path, build the proof, land the role, and tailor your resume with the Atlas coach.
+**[ResuMax](https://resumax.ai/?utm_source=github&utm_medium=repo&utm_campaign=tech-internships&utm_content=footer)** is the AI copilot for landing your tech job: tailor your resume to any role, run unlimited mock interviews, and walk into every round, recruiter screen, coding, and behavioral, knowing exactly what to say.
 
-<sub>This list is generated automatically from ResuMax's open data and refreshed on a schedule. Found an issue? Open an issue or PR.</sub>
+**[Get started free &rarr;](https://resumax.ai/?utm_source=github&utm_medium=repo&utm_campaign=tech-internships&utm_content=footer-cta)**
+
+</div>
+
+<sub>Generated automatically from open postings and refreshed daily. Spot something off? Open an issue or PR.</sub>

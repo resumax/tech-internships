@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 210" width="1000" height="210" role="img" aria-label="Tailor your resume and ace the interview with the ResuMax copilot">
+  <defs>
+    <radialGradient id="cg" cx="0.85" cy="0.1" r="0.95">
+      <stop offset="0" stop-color="#E879A3" stop-opacity="0.24"/>
+      <stop offset="0.62" stop-color="#E879A3" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1000" height="210" rx="18" fill="#12121A"/>
+  <rect width="1000" height="210" rx="18" fill="url(#cg)"/>
+  <rect x="0.5" y="0.5" width="999" height="209" rx="17.5" fill="none" stroke="#E879A3" stroke-opacity="0.3"/>
+  <circle cx="772" cy="42" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="798" cy="42" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="824" cy="42" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="850" cy="42" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="876" cy="42" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="902" cy="42" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="928" cy="42" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="772" cy="68" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="798" cy="68" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="824" cy="68" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="850" cy="68" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="876" cy="68" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="902" cy="68" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="928" cy="68" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="772" cy="94" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="798" cy="94" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="824" cy="94" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="850" cy="94" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="876" cy="94" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="902" cy="94" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="928" cy="94" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="772" cy="120" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="798" cy="120" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="824" cy="120" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="850" cy="120" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="876" cy="120" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="902" cy="120" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="928" cy="120" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="772" cy="146" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="798" cy="146" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="824" cy="146" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="850" cy="146" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="876" cy="146" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="902" cy="146" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="928" cy="146" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/>
+  <text x="44" y="60" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, monospace" font-size="13" letter-spacing="3" fill="#E879A3">THE RESUMAX COPILOT</text>
+  <text x="44" y="110" font-family="'Inter', -apple-system, 'Segoe UI', Roboto, Arial, sans-serif" font-size="37" font-weight="800" letter-spacing="-1.2" fill="#F5F1EB">Tailor your resume. Ace the interview.</text>
+  <text x="44" y="146" font-family="'Inter', -apple-system, 'Segoe UI', Roboto, Arial, sans-serif" font-size="18" fill="#8A8A92">One AI copilot for every step, from application to offer.</text>
+  <g transform="translate(44, 166)">
+    <rect width="186" height="40" rx="20" fill="#E879A3"/>
+    <text x="93" y="26" text-anchor="middle" font-family="'Inter', -apple-system, 'Segoe UI', Roboto, Arial, sans-serif" font-size="16" font-weight="700" fill="#0A0A0E">Start free &#8594;</text>
+  </g>
+</svg>
