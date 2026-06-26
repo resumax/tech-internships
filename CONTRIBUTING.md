@@ -1,6 +1,6 @@
 # Contributing to Tech Internships (2026 & 2027)
 
-This list is generated automatically from [ResuMax](https://resumax.ai/?utm_source=github&utm_medium=repo&utm_campaign=tech-internships)'s open data and refreshed on a schedule, so do not edit `README.md` directly (it gets overwritten on the next run).
+This list is generated automatically from [ResuMax](https://resumax.ai/?utm_source=github&utm_medium=repo&utm_campaign=tech-internships)'s open data and refreshed daily, so do not edit `README.md` directly (it gets overwritten on the next run).
 
 ## How to help
 
