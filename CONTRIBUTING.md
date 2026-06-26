@@ -4,7 +4,7 @@ This list is generated automatically from [ResuMax](https://resumax.ai/?utm_sour
 
 ## How to help
 
-- **Found something wrong, or want to undefined?** Open an [issue](../../issues/new) and we will fold it into the source data.
+- **Found something wrong, or want to report a stale internship or suggest a company to track?** Open an [issue](../../issues/new) and we will fold it into the source data.
 - **Spotted a dead link?** Open an issue with the row and the broken URL.
 
 Everything here is free and open source. If it helped you, a star helps others find it.
